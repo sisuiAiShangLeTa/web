@@ -1,0 +1,3 @@
+[submodule "src/libsommon"]
+	path = src/libsommon
+	url = https://github.com/sisuiAiShangLeTa/libsommon.git
